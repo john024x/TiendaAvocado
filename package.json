@@ -1,0 +1,18 @@
+{
+  "name": "TiendaAvocado",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:john024x/TiendaAvocado.git",
+  "author": "Juan Fuentes <juan@avocadosnetwork.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
