@@ -4,7 +4,7 @@ const ProductItem = () => {
   const {
     query: { id },
   } = useRouter();
-  return <div>Esta es una pagina de prueba del producto {router.query.id}</div>;
+  return <div>Esta es una pagina de prueba del producto {id}</div>;
 };
 
 export default ProductItem;
